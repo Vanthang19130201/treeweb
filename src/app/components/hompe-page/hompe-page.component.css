@@ -82,7 +82,7 @@ padding: 0px 30px;
 }
 #banner {
   width: 100%;
-  background-image: url("../../Image/tim-mossholder-07uiqD9LS6U-unsplash.jpg") ;
+  background-image: url("../Image/tim-mossholder-07uiqD9LS6U-unsplash.jpg") ;
   height: 550px;
   margin-top: 40px;
   display: flex;
@@ -263,7 +263,7 @@ padding: 0px 30px;
   font-size: 128px;
 }
 #saleoff .box-right {
-  background-image: url("../../Image/cay-phu-quy-de-ban-dep-255x255.jpg");
+  background-image: url("../Image/cay-phu-quy-de-ban-dep-255x255.jpg");
   text-align: center;
   width: 250px;
   height: 250px;
