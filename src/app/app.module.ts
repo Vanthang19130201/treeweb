@@ -10,6 +10,9 @@ import { ContactComponent } from './components/contact/contact.component';
 import {AppRoutingModule} from "./app-routing.module";
 import {CommonModule} from "@angular/common";
 import {RouterModule} from "@angular/router";
+import { NavBarComponent } from './common/nav-bar/nav-bar.component';
+import { FoooterComponent } from './common/foooter/foooter.component';
+import { CarouselComponent } from './common/carousel/carousel.component';
 
 
 @NgModule({
@@ -19,6 +22,9 @@ import {RouterModule} from "@angular/router";
     ProductsComponent,
     BlogComponent,
     ContactComponent,
+    NavBarComponent,
+    FoooterComponent,
+    CarouselComponent
   ],
   imports: [
     CommonModule,
